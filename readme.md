@@ -1,7 +1,7 @@
 # JabTV Landing Page
 
 A landing page website template for campers. Made with the love of boxing at heart.
-
+C:\Users\manik\OneDrive\Pictures\Screenshots\Screenshot (130).png
 ## Github repo
 
 This is the [link](https://github.com/mani981/JabTV-Landing-Pag) to the Github repo of the project
