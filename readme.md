@@ -2,26 +2,13 @@
 
 A landing page website template for campers. Made with the love of boxing at heart.
 
-![screenshot](screenshot.png)
-
-## Author
-
-[@koladechris](https://www.twitter.com/koladechris)
-
 ## Github repo
 
-This is the [link](https://github.com/Ksound22/JabTV-Landing-Page) to the Github repo of the project
+This is the [link](https://github.com/mani981/JabTV-Landing-Pag) to the Github repo of the project
 
-## Sample Website
+Software Tool:  HTML, CSS, Vanilla JavaSCript
 
-A live demo is already available via this [link](https://xenodochial-poincare-9143f8.netlify.app)
-
-## Tech Stack
-
-**Client:** HTML, CSS, Vanilla JavaSCript
-
-## Tools Used
-
+## Tools Used 
 Below are are list of tools used, and the precise things they were used for:
 
 - [Ion Icons](https://ionic.io/ionicons) for dark theme switcher icons
